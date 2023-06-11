@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DragDrop
 =======
 # Getting Started with Create React App
